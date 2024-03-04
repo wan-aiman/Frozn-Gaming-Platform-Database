@@ -109,7 +109,7 @@ INSERT INTO Genres VALUES (5010, 'Simulation', 'Simulation games are a genre of 
 INSERT INTO Games VALUES (2001, 5001, 'Space Odyssey', TO_DATE('2022-01-20','YYYY-MM-DD'), 'Galaxy Studios', 'Windows', 'Explore the universe in this epic space adventure.');
 INSERT INTO Games VALUES (2002, 5003, 'Baldurs Gate', TO_DATE('2023-08-03','YYYY-MM-DD'), 'Larian Studios', 'Windows, Mac', 'Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.');
 INSERT INTO Games VALUES (2003, 5002, 'Counter-Strike 2', TO_DATE('2023-09-27','YYYY-MM-DD'), 'Valve', 'Windows, Mac, Linux', 'Built on the Source 2 engine, Counter-Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools.');
-INSERT INTO Games VALUES (2004, 5004, 'EA SPORTS FC 24', TO_DATE('2023-09-28','YYYY-MM-DD'), 'Electronic Arts', 'Windows', 'EA SPORTS FC™ 24 welcomes you to The Worlds Game: the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and an enhanced Frostbite™ Engine.');
+INSERT INTO Games VALUES (2004, 5004, 'EA SPORTS FC 24', TO_DATE('2023-09-28','YYYY-MM-DD'), 'Electronic Arts', 'Windows', 'EA SPORTS FCÂ™ 24 welcomes you to The Worlds Game: the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and an enhanced FrostbiteÂ™ Engine.');
 INSERT INTO Games VALUES (2005, 5005, 'Path of Exile', TO_DATE('2013-10-24','YYYY-MM-DD'), 'Grinding Gear Games', 'Windows', 'You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you.');
 INSERT INTO Games VALUES (2006, 5010, 'Euro Truck Simulator 2', TO_DATE('2012-10-18','YYYY-MM-DD'), 'SCS Software', 'Windows, Mac', 'Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances!');
 INSERT INTO Games VALUES (2007, 5006, 'Warhammer:Darktide', TO_DATE('2022-12-01','YYYY-MM-DD'), 'Fatshark', 'Windows', 'Take back the city of Tertium from hordes of bloodthirsty foes in this intense and brutal action shooter.');
@@ -119,9 +119,9 @@ INSERT INTO Games VALUES (2010, 5009, 'Detroit: Become Human', TO_DATE('2020-06-
 INSERT INTO Games VALUES (2011, 5003, 'Elden Ring', TO_DATE('2022-02-25','YYYY-MM-DD'), 'FromSoftware Inc.', 'Windows', 'Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.');
 INSERT INTO Games VALUES (2012, 5003, 'Diablo IV', TO_DATE('2023-10-18','YYYY-MM-DD'), 'Blizzard Entertainment', 'Windows', 'Join the fight for Sanctuary in Diablo IV, the ultimate action RPG adventure.');
 INSERT INTO Games VALUES (2013, 5002, 'Apex Legends', TO_DATE('2020-11-05','YYYY-MM-DD'), 'Electronic Arts', 'Windows, Linux', 'Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay.');
-INSERT INTO Games VALUES (2014, 5002, 'Call of Duty: Warzone', TO_DATE('2022-11-17','YYYY-MM-DD'), 'Activision', 'Windows', 'Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena which now features the brand-new map, Urzikstan.');
+INSERT INTO Games VALUES (2014, 5002, 'Call of Duty: Warzone', TO_DATE('2022-11-17','YYYY-MM-DD'), 'Activision', 'Windows', 'Welcome to Call of DutyÂ®: WarzoneÂ™, the massive free-to-play combat arena which now features the brand-new map, Urzikstan.');
 INSERT INTO Games VALUES (2015, 5004, 'Forza Horizon 5', TO_DATE('2021-11-09','YYYY-MM-DD'), 'Xbox Game Studios', 'Windows', 'Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the worlds greatest cars.');
-INSERT INTO Games VALUES (2016, 5001, 'Cyberpunk 2077', TO_DATE('2020-12-10','YYYY-MM-DD'), 'CD PROJEKT RED', 'Windows', 'Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.');
+INSERT INTO Games VALUES (2016, 5001, 'Cyberpunk 2077', TO_DATE('2020-12-10','YYYY-MM-DD'), 'CD PROJEKT RED', 'Windows', 'Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City Â— a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.');
 INSERT INTO Games VALUES (2017, 5005, 'Lost Ark', TO_DATE('2018-11-07','YYYY-MM-DD'), 'Smilegate', 'Windows', 'A free-to-play MMO ARPG set in a vast, vibrant world with thrilling fights, endless customization, and endless adventure.');
 INSERT INTO Games VALUES (2018, 5002, 'Overwatch 2', TO_DATE('2023-08-10','YYYY-MM-DD'), 'Blizzard', 'Windows, Mac', 'Overwatch 2 is a critically acclaimed, team-based shooter game set in an optimistic future with an evolving roster of heroes. Team up with friends and jump in today.');
 INSERT INTO Games VALUES (2019, 5006, 'Phasmophobia', TO_DATE('2020-09-19','YYYY-MM-DD'), 'Kinetic Games', 'Windows, Mac, Linux', 'Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and its up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.');
@@ -161,7 +161,7 @@ INSERT INTO UserProgress VALUES (3030, 1014, 2019, 535, 32, 'Level 93', TO_DATE(
 
 -- Insert Data for Reviews
 INSERT INTO Reviews VALUES (4001, 1001, 2001, 8.6, 'Amazing space exploration game!', TO_DATE('2022-02-10','YYYY-MM-DD'));
-INSERT INTO Reviews VALUES (4002, 1001, 2002, 9.1, 'My god…. Im blown away by this game. If you were on the fence… buy it. I was a little skeptical of turn based but entire game is captivating', TO_DATE('2023-12-14','YYYY-MM-DD'));
+INSERT INTO Reviews VALUES (4002, 1001, 2002, 9.1, 'My godÂ…. Im blown away by this game. If you were on the fenceÂ… buy it. I was a little skeptical of turn based but entire game is captivating', TO_DATE('2023-12-14','YYYY-MM-DD'));
 INSERT INTO Reviews VALUES (4003, 1002, 2011, 9.8, 'Best game ever made. Best songs best game mechanics best art design everything is perfect', TO_DATE('2023-12-12','YYYY-MM-DD'));
 INSERT INTO Reviews VALUES (4004, 1003, 2011, 9.3, 'Best from soft game and best game I played so far very deep and nice world building and cool story', TO_DATE('2023-12-09','YYYY-MM-DD'));
 INSERT INTO Reviews VALUES (4005, 1004, 2002, 9.6, 'Its a game of the year contender. Easily.', TO_DATE('2023-11-07','YYYY-MM-DD'));
@@ -217,7 +217,7 @@ VALUES (1031, 'MoSalah', 'egyptianking@yahoo.com', 'ynwa', TO_DATE('1992-06-15',
 INSERT INTO UserProgress (Progress_ID, User_ID, Game_ID, Hours_Played, Achievements_Unlocked, Save_Game_State, Last_Played_Date)
 VALUES (3031, 1031, (SELECT Game_ID FROM Games WHERE Title = 'EA SPORTS FC 24'), 20, 10, 'Season 3', TO_DATE('2023-01-15','YYYY-MM-DD'));
 
---6.5 Update user’s email 
+--6.5 Update userÂ’s email 
 UPDATE Users
 SET Email = 'newemail@example.com'
 WHERE User_ID = 1001;
