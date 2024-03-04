@@ -10,3 +10,5 @@ ability to compare game features. This functionality empowers users to explore a
 based on average ratings, providing a more tailored and engaging journey through the gaming
 catalog. The goal is to make gaming more enjoyable for everyone involved
 # ERD
+![image](https://github.com/wan-aiman/Frozn-Gaming-Platform-Database/assets/92302486/74bba993-62e7-4a79-9ba0-095efefa3320)
+
