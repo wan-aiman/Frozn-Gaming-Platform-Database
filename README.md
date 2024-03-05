@@ -1,4 +1,4 @@
-# Frozn-Gaming-Platform-Database
+# Frozn: Gaming Platform Database
 This project is about creating a strong Gaming Platform Database, acting as the central
 hub for managing games, users, reviews, and player progress. It's designed to be user-friendly for
 game publishers, gamers, and administrators. For game publishers, it provides easy tools for
